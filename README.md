@@ -6,6 +6,8 @@
 - [Tool](#tool)
 - [Features](#features)
 
+---
+
 ### Project Overview
 A machine learning project that forecasts sales by analyzing the amount of money spent on various advertising mediums, including publications, radio, and television. In order to maximize profits, the model attempts to assist companies in optimizing their advertising expenditures.
 This project made use of a Random Forest Regressor, which predicts sales by using advertising expenditure as input. The model finds correlations between TV, radio, and newspaper ad spending and sales impact by examining historical advertising data. The model was trained using a free dataset from Kaggle.
@@ -18,7 +20,7 @@ Sales Prediction Dataset: The primary dataset used for this project is the "sale
   - [Download here](https://jupyter.org/)
 
 ### Features
-- Predicts sales based on advertising expenditures:
+- Predicts sales based on advertising expenditures.
 - Supports multiple regression models: Linear Regression Random Forest Regressor Gradient Boosting Regressor.
 - Visualizes relationships between advertising channels and sales.
-- Evaluates model performance with metrics like: R-squared (R²)
+- Evaluates model performance with metrics like: R-squared (R²).
