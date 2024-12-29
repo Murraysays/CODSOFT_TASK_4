@@ -6,7 +6,7 @@
 - [Tool](#tool)
 - [Features](#features)
 
-
+---
 
 ### Project Overview
 A machine learning project that forecasts sales by analyzing the amount of money spent on various advertising mediums, including publications, radio, and television. In order to maximize profits, the model attempts to assist companies in optimizing their advertising expenditures.
